@@ -1,0 +1,10 @@
+{
+  "SUBSCRIPTIONS_NOTIFICATIONS": {
+    "name": "test-bo-viva-subscription-notification"
+  },
+
+  "PAYMENTS_NOTIFICATIONS": {
+    "name": "test-bo-viva-payment-notification"
+  }
+
+}
